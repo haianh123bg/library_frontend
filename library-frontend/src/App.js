@@ -9,7 +9,6 @@ function App() {
     const handleClose = () => setShow(false);
     const handleShow = () => setShow(true);
 
-    // Test git pull hai anh
     return (
         <>
             <Button variant="primary" onClick={handleShow}>
