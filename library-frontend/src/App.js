@@ -12,7 +12,7 @@ function App() {
     return (
         <>
             <Button variant="primary" onClick={handleShow}>
-                Xin chào
+                Xin chào mọi người Hải Anh
             </Button>
 
             <Modal show={show} onHide={handleClose}>
